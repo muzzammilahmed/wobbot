@@ -1,0 +1,15 @@
+streamlit
+langchain
+python-decouple
+requests
+beautifulsoup4
+tqdm
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+PyPDF2
+faiss-cpu
+
+
+#pip install python-dotenv streamlit langchain langchain-openai PyPDF2

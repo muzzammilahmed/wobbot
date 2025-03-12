@@ -1,0 +1,6 @@
+.devcontainer
+.ipynb_checkpoints
+.venv
+.gitignore
+.env
+
